@@ -11,7 +11,7 @@ import RxSwift
 
 final class SearchTests: XCTestCase {
     
-    let api = API("<< API KEY >>")
+    let api = API(API_KEY)
     let bag = DisposeBag()
     
     func testMovies() {
