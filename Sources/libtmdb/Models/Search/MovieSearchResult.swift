@@ -18,8 +18,10 @@ public struct MovieSearchResult: Decodable {
     public let original_language: String
     public let title: String
     public let backdrop_path: String?
-    public let popularity: Float
     public let vote_count: Int
     public let video: Bool
     public let vote_average: Float
+    
+    public let popularity: Float?
+    public let media_type: String?
 }

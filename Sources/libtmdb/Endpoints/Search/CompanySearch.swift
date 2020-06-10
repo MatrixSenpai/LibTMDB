@@ -8,12 +8,18 @@
 import Foundation
 import RxSwift
 
-//struct CompanySearch: APIRequest {
-//    typealias Response = APIResponse<CompanySearchResult>
-//    
-//    var endpoint: String { "/search/company" }
-//}
-//
-//public struct CompanySearchResult: Decodable {
-//    
-//}
+struct CompanySearch: APIRequest {
+    typealias Response = APIResponse<CompanySearchResult>
+    
+    var endpoint: String { "/search/company" }
+    var parameters: Dictionary<String, String> {
+        return [
+            "query": query,
+            "page": "\(page)"
+        ]
+    }
+    
+    var query: String
+    var page: Int
+}
+

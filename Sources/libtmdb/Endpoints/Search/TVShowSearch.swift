@@ -13,7 +13,24 @@ struct TVShowSearchRequest: APIRequest {
         
     var endpoint: String { "/search/tv" }
     var parameters: Dictionary<String, String> {
-        return Dictionary<String, String>()
+        var dict = [
+            "query": query,
+            "page": "\(page)"
+        ]
+        
+        if let language = language {
+            dict["language"] = language
+        }
+        
+        if let adult = adult {
+            dict["include_adult"] = adult ? "true" : "false"
+        }
+        
+        if let aired = aired {
+            dict["first_air_date_year"] = "\(aired)"
+        }
+        
+        return dict
     }
     
     var language: String?
@@ -21,12 +38,4 @@ struct TVShowSearchRequest: APIRequest {
     var query: String
     var adult: Bool?
     var aired: Int?
-    
-    init(qu: String, pa: Int, la: String?, ad: Bool?, ai: Int?) {
-        query = qu
-        page = pa
-        language = la
-        adult = ad
-        aired = ai
-    }
 }

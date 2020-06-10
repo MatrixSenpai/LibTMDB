@@ -9,7 +9,6 @@ import Foundation
 
 public struct TVShowSearchResult: Decodable {
     public let poster_path: String?
-    public let popularity: Float
     public let id: Int
     public let backdrop_path: String?
     public let vote_average: Float
@@ -21,4 +20,7 @@ public struct TVShowSearchResult: Decodable {
     public let vote_count: Int
     public let name: String
     public let original_name: String
+    
+    public let popularity: Float?
+    public let media_type: String?
 }

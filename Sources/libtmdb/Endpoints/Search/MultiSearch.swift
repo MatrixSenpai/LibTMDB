@@ -8,10 +8,10 @@
 import Foundation
 import RxSwift
 
-struct PeopleSearch: APIRequest {
-    typealias Response = APIResponse<PeopleSearchResult>
+struct MultiSearch: APIRequest {
+    typealias Response = MultiSearchResult
     
-    var endpoint: String { "/search/person" }
+    var endpoint: String { "/search/multi" }
     var parameters: Dictionary<String, String> {
         var dict = [
             "query": query,
@@ -33,9 +33,9 @@ struct PeopleSearch: APIRequest {
         return dict
     }
     
-    var language: String?
-    var query: String
-    var page: Int
-    var adult: Bool?
-    var region: String?
+    let language: String?
+    let query: String
+    let page: Int
+    let adult: Bool?
+    let region: String?
 }

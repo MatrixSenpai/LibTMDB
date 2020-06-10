@@ -23,7 +23,7 @@ struct MovieSearch: APIRequest {
         }
         
         if let adult = adult {
-            dict["adult"] = (adult) ? "true" : "false"
+            dict["include_adult"] = (adult) ? "true" : "false"
         }
         
         if let region = region {
@@ -48,14 +48,4 @@ struct MovieSearch: APIRequest {
     var region  : String?
     var year    : Int?
     var released: Int?
-
-    init(qu: String, pa: Int, la: String?, ad: Bool?, re: String?, ye: Int?, rl: Int?) {
-        self.query = qu
-        self.page = pa
-        self.language = la
-        self.adult = ad
-        self.region = re
-        self.year = ye
-        self.released = rl
-    }
 }
