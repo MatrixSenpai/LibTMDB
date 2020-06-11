@@ -57,805 +57,805 @@
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/APIResponse.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/APIResponse.swift",
       "line": 10,
       "symbol": "APIResponse",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/APIResponse.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/APIResponse.swift",
       "line": 11,
       "symbol": "APIResponse.page",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/APIResponse.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/APIResponse.swift",
       "line": 12,
       "symbol": "APIResponse.results",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/APIResponse.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/APIResponse.swift",
       "line": 13,
       "symbol": "APIResponse.pages",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/APIResponse.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/APIResponse.swift",
       "line": 15,
       "symbol": "APIResponse.data",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Certifications/MovieCertificationsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Certifications/MovieCertificationsModel.swift",
       "line": 10,
       "symbol": "MovieCertificationModel",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Certifications/MovieCertificationsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Certifications/MovieCertificationsModel.swift",
       "line": 14,
       "symbol": "MovieCertificationModel.CertificationByCountry",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Certifications/TVShowCertificationsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Certifications/TVShowCertificationsModel.swift",
       "line": 10,
       "symbol": "TVShowCertificationsModel",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Certifications/TVShowCertificationsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Certifications/TVShowCertificationsModel.swift",
       "line": 14,
       "symbol": "TVShowCertificationsModel.CertificationByCountry",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieAlternativeTitleModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieAlternativeTitleModel.swift",
       "line": 10,
       "symbol": "MovieAlternativeTitleModel",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieAlternativeTitleModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieAlternativeTitleModel.swift",
       "line": 11,
       "symbol": "MovieAlternativeTitleModel.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieAlternativeTitleModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieAlternativeTitleModel.swift",
       "line": 12,
       "symbol": "MovieAlternativeTitleModel.titles",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieAlternativeTitleModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieAlternativeTitleModel.swift",
       "line": 14,
       "symbol": "MovieAlternativeTitleModel.AlternativeTitle",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieAlternativeTitleModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieAlternativeTitleModel.swift",
       "line": 15,
       "symbol": "MovieAlternativeTitleModel.AlternativeTitle.iso_3166_1",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieAlternativeTitleModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieAlternativeTitleModel.swift",
       "line": 16,
       "symbol": "MovieAlternativeTitleModel.AlternativeTitle.title",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieAlternativeTitleModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieAlternativeTitleModel.swift",
       "line": 17,
       "symbol": "MovieAlternativeTitleModel.AlternativeTitle.type",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 10,
       "symbol": "MovieCreditsModel",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 11,
       "symbol": "MovieCreditsModel.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 13,
       "symbol": "MovieCreditsModel.cast",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 14,
       "symbol": "MovieCreditsModel.crew",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 16,
       "symbol": "MovieCreditsModel.Cast",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 17,
       "symbol": "MovieCreditsModel.Cast.cast_id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 18,
       "symbol": "MovieCreditsModel.Cast.character",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 19,
       "symbol": "MovieCreditsModel.Cast.credit_id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 20,
       "symbol": "MovieCreditsModel.Cast.gender",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 21,
       "symbol": "MovieCreditsModel.Cast.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 22,
       "symbol": "MovieCreditsModel.Cast.name",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 23,
       "symbol": "MovieCreditsModel.Cast.order",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 24,
       "symbol": "MovieCreditsModel.Cast.profile_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 27,
       "symbol": "MovieCreditsModel.Crew",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 28,
       "symbol": "MovieCreditsModel.Crew.credit_id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 29,
       "symbol": "MovieCreditsModel.Crew.department",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 30,
       "symbol": "MovieCreditsModel.Crew.gender",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 31,
       "symbol": "MovieCreditsModel.Crew.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 32,
       "symbol": "MovieCreditsModel.Crew.job",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 33,
       "symbol": "MovieCreditsModel.Crew.name",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieCreditsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieCreditsModel.swift",
       "line": 34,
       "symbol": "MovieCreditsModel.Crew.profile_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 10,
       "symbol": "MovieDetailsModel",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 11,
       "symbol": "MovieDetailsModel.adult",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 12,
       "symbol": "MovieDetailsModel.backdrop_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 13,
       "symbol": "MovieDetailsModel.budget",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 14,
       "symbol": "MovieDetailsModel.homepage",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 15,
       "symbol": "MovieDetailsModel.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 16,
       "symbol": "MovieDetailsModel.imdb_id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 17,
       "symbol": "MovieDetailsModel.original_language",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 18,
       "symbol": "MovieDetailsModel.original_title",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 19,
       "symbol": "MovieDetailsModel.overview",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 20,
       "symbol": "MovieDetailsModel.popularity",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 21,
       "symbol": "MovieDetailsModel.poster_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 22,
       "symbol": "MovieDetailsModel.release_date",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 23,
       "symbol": "MovieDetailsModel.revenue",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 24,
       "symbol": "MovieDetailsModel.runtime",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 25,
       "symbol": "MovieDetailsModel.status",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 26,
       "symbol": "MovieDetailsModel.tagline",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 27,
       "symbol": "MovieDetailsModel.title",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 28,
       "symbol": "MovieDetailsModel.video",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 29,
       "symbol": "MovieDetailsModel.vote_average",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 30,
       "symbol": "MovieDetailsModel.vote_count",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 32,
       "symbol": "MovieDetailsModel.MovieStatus",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 33,
       "symbol": "MovieDetailsModel.MovieStatus.canceled",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 33,
       "symbol": "MovieDetailsModel.MovieStatus.planned",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 33,
       "symbol": "MovieDetailsModel.MovieStatus.released",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 33,
       "symbol": "MovieDetailsModel.MovieStatus.rumored",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 34,
       "symbol": "MovieDetailsModel.MovieStatus.production",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Movies/MovieDetailsModel.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Movies/MovieDetailsModel.swift",
       "line": 35,
       "symbol": "MovieDetailsModel.MovieStatus.post_prod",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/CompanySearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/CompanySearchResult.swift",
       "line": 10,
       "symbol": "CompanySearchResult",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/CompanySearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/CompanySearchResult.swift",
       "line": 11,
       "symbol": "CompanySearchResult.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/CompanySearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/CompanySearchResult.swift",
       "line": 12,
       "symbol": "CompanySearchResult.logo_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/CompanySearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/CompanySearchResult.swift",
       "line": 13,
       "symbol": "CompanySearchResult.name",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 10,
       "symbol": "MovieSearchResult",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 11,
       "symbol": "MovieSearchResult.poster_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 12,
       "symbol": "MovieSearchResult.adult",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 13,
       "symbol": "MovieSearchResult.overview",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 14,
       "symbol": "MovieSearchResult.release_date",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 15,
       "symbol": "MovieSearchResult.genre_ids",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 16,
       "symbol": "MovieSearchResult.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 17,
       "symbol": "MovieSearchResult.original_title",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 18,
       "symbol": "MovieSearchResult.original_language",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 19,
       "symbol": "MovieSearchResult.title",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 20,
       "symbol": "MovieSearchResult.backdrop_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 21,
       "symbol": "MovieSearchResult.vote_count",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 22,
       "symbol": "MovieSearchResult.video",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 23,
       "symbol": "MovieSearchResult.vote_average",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 25,
       "symbol": "MovieSearchResult.popularity",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MovieSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MovieSearchResult.swift",
       "line": 26,
       "symbol": "MovieSearchResult.media_type",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MultiSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MultiSearchResult.swift",
       "line": 10,
       "symbol": "MultiSearchResult",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MultiSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MultiSearchResult.swift",
       "line": 11,
       "symbol": "MultiSearchResult.movie(item:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MultiSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MultiSearchResult.swift",
       "line": 12,
       "symbol": "MultiSearchResult.show(item:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/MultiSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/MultiSearchResult.swift",
       "line": 13,
       "symbol": "MultiSearchResult.person(item:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 10,
       "symbol": "PeopleSearchResult",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 11,
       "symbol": "PeopleSearchResult.profile_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 12,
       "symbol": "PeopleSearchResult.adult",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 13,
       "symbol": "PeopleSearchResult.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 14,
       "symbol": "PeopleSearchResult.name",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 15,
       "symbol": "PeopleSearchResult.popularity",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 16,
       "symbol": "PeopleSearchResult.known_for_department",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 18,
       "symbol": "PeopleSearchResult.known_for",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 20,
       "symbol": "PeopleSearchResult.KnownForType",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 21,
       "symbol": "PeopleSearchResult.KnownForType.movie(item:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/PeopleSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/PeopleSearchResult.swift",
       "line": 22,
       "symbol": "PeopleSearchResult.KnownForType.show(item:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 10,
       "symbol": "TVShowSearchResult",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 11,
       "symbol": "TVShowSearchResult.poster_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 12,
       "symbol": "TVShowSearchResult.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 13,
       "symbol": "TVShowSearchResult.backdrop_path",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 14,
       "symbol": "TVShowSearchResult.vote_average",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 15,
       "symbol": "TVShowSearchResult.overview",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 16,
       "symbol": "TVShowSearchResult.first_air_date",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 17,
       "symbol": "TVShowSearchResult.origin_country",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 18,
       "symbol": "TVShowSearchResult.genre_ids",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 19,
       "symbol": "TVShowSearchResult.original_language",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 20,
       "symbol": "TVShowSearchResult.vote_count",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 21,
       "symbol": "TVShowSearchResult.name",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 22,
       "symbol": "TVShowSearchResult.original_name",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 24,
       "symbol": "TVShowSearchResult.popularity",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/Models/Search/TVSearchResult.swift",
+      "file": "/Users/matrix/Development/small-projects/whoithink/libtmdb/Sources/libtmdb/APIv3/Models/Search/TVSearchResult.swift",
       "line": 25,
       "symbol": "TVShowSearchResult.media_type",
       "symbol_kind": "source.lang.swift.decl.var.instance",
