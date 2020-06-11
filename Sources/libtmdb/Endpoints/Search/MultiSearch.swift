@@ -6,10 +6,9 @@
 //
 
 import Foundation
-import RxSwift
 
 struct MultiSearch: APIRequest {
-    typealias Response = MultiSearchResult
+    typealias Response = APIResponse<MultiSearchResult>
     
     var endpoint: String { "/search/multi" }
     var parameters: Dictionary<String, String> {

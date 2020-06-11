@@ -26,7 +26,7 @@ public class API {
         case unknownResponseError
     }
     
-    init(_ key: String) {
+    public init(_ key: String) {
         apiKey = key
     }
     

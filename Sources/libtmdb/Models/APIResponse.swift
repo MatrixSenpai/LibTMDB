@@ -12,7 +12,7 @@ public class APIResponse<T: Decodable>: Decodable {
     public let results: Int
     public let pages  : Int
     
-    public let data: Array<T>
+    public let data: [T]
     
     enum CodingKeys: String, CodingKey {
         case page

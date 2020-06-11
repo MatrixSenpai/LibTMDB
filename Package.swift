@@ -14,7 +14,7 @@ let package = Package(
         .package(url: "https://github.com/ReactiveX/RxSwift.git", from: "5.0.0")
     ],
     targets: [
-        .target(name: "libtmdb", dependencies: ["RxSwift"]),
+        .target(name: "libtmdb", dependencies: ["RxSwift", .product(name: "RxCocoa", package: "RxSwift")]),
         .testTarget(name: "libtmdbTests", dependencies: ["RxSwift", "libtmdb"])
     ]
 )

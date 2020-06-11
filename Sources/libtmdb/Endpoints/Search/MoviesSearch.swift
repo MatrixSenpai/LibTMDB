@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import RxSwift
 
 struct MovieSearch: APIRequest {
     typealias Response = APIResponse<MovieSearchResult>

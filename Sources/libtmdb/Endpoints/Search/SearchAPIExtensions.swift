@@ -32,7 +32,7 @@ public extension API {
      - parameter year: A year to search
      - parameter release: The initial release year to search
      */
-    @available(iOS, introduced: 1.0)
+    @available(iOS, introduced: 1.0.0)
     func searchMovie(query: String,
                      page: Int = 1,
                      language: String? = nil,
@@ -54,7 +54,7 @@ public extension API {
      - parameter region: Specify an ISO 3166-1 code to filter release dates
      */
     @available(iOS, introduced: 1.0)
-    func searchMulti(query: String, page: Int = 1, language: String? = nil, adult: Bool? = nil, region: String? = nil) -> Single<MultiSearchResult> {
+    func searchMulti(query: String, page: Int = 1, language: String? = nil, adult: Bool? = nil, region: String? = nil) -> Single<APIResponse<MultiSearchResult>> {
         return _fetch(MultiSearch(language: language, query: query, page: page, adult: adult, region: region))
     }
     
