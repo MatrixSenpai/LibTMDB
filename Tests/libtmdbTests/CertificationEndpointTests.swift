@@ -13,19 +13,5 @@ final class CertificationTests: XCTestCase {
     let api = API(API_KEY)
     let bag = DisposeBag()
     
-    let onErr: ((Error) -> Void) = { e in print(e); XCTFail() }
-    
-    func testMovieCertifications() {
-        let expectation = XCTestExpectation(description: "Expects a list of certifications")
-        
-        
-        wait(for: [expectation], timeout: 5.0)
-    }
-    
-    func testTVShowCertifications() {
-        let expectation = XCTestExpectation(description: "Expects a list of certifications")
-        
-        
-        wait(for: [expectation], timeout: 5.0)
-    }
+    let onErr: ((Error) -> Void) = { e in print(e); XCTFail() }    
 }
