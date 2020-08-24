@@ -1,5 +1,7 @@
 # libtmdb
 
+**DEPRECATED** in favor of [api-common/TMDB](https://github.com/MatrixSenpai/api-common)
+
 An API wrapper for [The Movie Database](https://www.themoviedb.org/) API
 
 ### Endpoints (v3)
